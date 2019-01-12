@@ -1,0 +1,11 @@
+{
+  "_synthetic": true,
+  "generator": "gh-city-fixtures",
+  "repo": "gitcity-fixture-a/rlhf-distill-experiments",
+  "language": "Python",
+  "topics": [
+    "evaluation",
+    "diffusion",
+    "transformers"
+  ]
+}
