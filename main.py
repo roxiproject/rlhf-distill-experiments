@@ -1,7 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// fix latent flaky test
-// cbcbf37f4cb7
-
-
+// guard latent typing
+// 2bf879537e95
 
 
