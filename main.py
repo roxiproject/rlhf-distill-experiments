@@ -1,6 +1,7 @@
 // rlhf-distill-experiments — synthetic fixture
-// bump off-by-one
-// 424c36588747
+// guard perf
+// 4d4b89342ae5
+
 
 
 
