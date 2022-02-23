@@ -1,19 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// refactor distill docs
-// ff2bf57886cf
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump typing
+// 36e946906c4e
