@@ -1,6 +1,13 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle probe edge case
-// 0c538791b646
+// bump attention off-by-one
+// 17472dd2054d
+
+
+
+
+
+
+
 
 
 
