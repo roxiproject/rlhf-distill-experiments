@@ -1,4 +1,14 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache probe edge case
-// a734b6228af2
+// guard off-by-one
+// 9a0bae48868c
+
+
+
+
+
+
+
+
+
+
 
