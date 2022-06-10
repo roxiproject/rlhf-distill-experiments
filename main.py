@@ -1,10 +1,4 @@
 // rlhf-distill-experiments — synthetic fixture
-// bump attention docs
-// ab4741168fc5
-
-
-
-
-
-
+// wip probe docs
+// 3c1c6507b775
 
