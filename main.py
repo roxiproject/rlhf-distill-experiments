@@ -1,9 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// add off-by-one
-// 790506fe6e9c
-
-
-
+// handle perf
+// 173bb3d8a1d4
 
 
 
