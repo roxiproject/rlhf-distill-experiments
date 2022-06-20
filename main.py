@@ -1,8 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// guard perf
-// 296a94abc093
-
-
+// cache rlhf docs
+// b116b7486f7e
 
 
 
