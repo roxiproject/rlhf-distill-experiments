@@ -1,9 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// fix distill flaky test
-// a660f444158b
-
-
-
+// add docs
+// e379d0dc9b32
 
 
 
