@@ -1,8 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// add docs
-// e379d0dc9b32
-
-
+// cache embed CI
+// fdc4fe9951ef
 
 
 
