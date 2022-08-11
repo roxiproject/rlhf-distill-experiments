@@ -1,28 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache attention docs
-// 1084f3fb0478
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump lora cleanup
+// f6f1c5a203cb
 
 
