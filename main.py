@@ -1,6 +1,4 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle eval CI
-// 28e9ad8c9429
-
-
+// remove rlhf cleanup
+// 0f7699dd998f
 
