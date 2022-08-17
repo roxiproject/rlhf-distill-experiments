@@ -1,21 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip probe edge case
-// fca6c9a0ccf0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor latent regression
+// ff2316db4262
