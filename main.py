@@ -1,37 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// split attention regression
-// d4e148099ad4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle tokenizer regression
+// 43231c5a826b
 
 
 
