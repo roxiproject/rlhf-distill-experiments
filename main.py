@@ -1,6 +1,32 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline edge case
-// 3bb0b0e09ff5
+// inline docs
+// 3442f7a3c18e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
