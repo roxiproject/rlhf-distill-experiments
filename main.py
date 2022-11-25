@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// guard embed docs
-// a655452e6d18
+// inline cleanup
+// 7cfc418a25a0
 
 
 
