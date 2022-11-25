@@ -1,25 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// split probe docs
-// 6518c6cacf07
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard regression
+// 18926b40a3fc
 
 
