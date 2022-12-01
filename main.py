@@ -1,6 +1,10 @@
 // rlhf-distill-experiments — synthetic fixture
-// fix off-by-one
-// 22e59ff5b4dd
+// wip latent off-by-one
+// 5439b6e724b3
+
+
+
+
 
 
 
