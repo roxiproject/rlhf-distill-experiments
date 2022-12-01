@@ -1,6 +1,8 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip tokenizer off-by-one
-// 64ceb9269635
+// fix off-by-one
+// 22e59ff5b4dd
+
+
 
 
 
