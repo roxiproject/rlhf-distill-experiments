@@ -1,13 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip latent off-by-one
-// 5439b6e724b3
-
-
-
-
-
-
-
+// guard off-by-one
+// 6dfb09763545
 
 
 
