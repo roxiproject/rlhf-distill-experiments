@@ -1,6 +1,18 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip attention CI
-// 1c1b939f97ab
+// handle rlhf CI
+// 51feddb3e3bc
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
