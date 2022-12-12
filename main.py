@@ -1,16 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// guard probe cleanup
-// 3f634845733e
-
-
-
-
-
-
-
-
-
-
+// guard attention cleanup
+// b172d28aea21
 
 
 
