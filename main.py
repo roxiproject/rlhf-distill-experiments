@@ -1,6 +1,8 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip latent off-by-one
-// fa26f64b1b37
+// add eval regression
+// f7373bc29960
+
+
 
 
 
