@@ -1,14 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle edge case
-// d6def536046a
-
-
-
-
-
-
-
-
+// wip latent off-by-one
+// fa26f64b1b37
 
 
 
