@@ -1,20 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache attention cleanup
-// 436a48f25023
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// handle CI
+// 4b9ae163a702
 
 
 
