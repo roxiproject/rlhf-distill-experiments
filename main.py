@@ -1,14 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// bump distill flaky test
-// 674efca2e2f9
-
-
-
-
-
-
-
-
+// cache attention cleanup
+// 436a48f25023
 
 
 
