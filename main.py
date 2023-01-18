@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip lora CI
-// ab080e4d30d8
+// bump regression
+// 2fe7a1690235
 
 
 
