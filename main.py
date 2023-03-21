@@ -1,30 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline embed regression
-// 408024a4ea5f
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard rlhf cleanup
+// 4af73542d21e
