@@ -1,14 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle docs
-// c4f7f16bce32
-
-
-
-
-
-
-
-
-
-
-
+// inline latent typing
+// 6566a44d6f8e
