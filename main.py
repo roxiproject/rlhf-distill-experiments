@@ -1,9 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// refactor tokenizer cleanup
-// 55c21ace5bcd
-
-
-
+// bump distill off-by-one
+// 3a12df859793
 
 
 
