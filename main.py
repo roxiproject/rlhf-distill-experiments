@@ -1,16 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip embed perf
-// e41cbdc395d5
-
-
-
-
-
-
-
-
-
-
+// guard regression
+// e292a6a743ce
 
 
 
