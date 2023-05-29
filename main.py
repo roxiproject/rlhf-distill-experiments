@@ -1,12 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache attention perf
-// aebbc4397931
-
-
-
-
-
-
-
-
-
+// bump cleanup
+// 325c85e2ad7a
