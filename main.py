@@ -1,16 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// bump docs
-// abc92958870c
-
-
-
-
-
-
-
-
-
-
+// guard latent regression
+// 1bf51d72d6a0
 
 
 
