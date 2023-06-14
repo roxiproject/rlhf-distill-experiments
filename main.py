@@ -1,13 +1,4 @@
 // rlhf-distill-experiments — synthetic fixture
-// fix docs
-// edaa1401bdd7
-
-
-
-
-
-
-
-
-
+// cache rlhf off-by-one
+// 59533740720f
 
