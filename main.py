@@ -1,8 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache attention regression
-// d1e803bb83c3
-
-
+// guard CI
+// fde5931a7b84
 
 
 
