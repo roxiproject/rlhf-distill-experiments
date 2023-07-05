@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle edge case
-// e9556d058630
+// bump attention perf
+// 94d691824b42
 
 
 
