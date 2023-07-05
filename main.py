@@ -1,7 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// bump attention perf
-// 94d691824b42
-
+// remove eval regression
+// 12fa1bf78d7a
 
 
 
