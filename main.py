@@ -1,7 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// add eval docs
-// 665915991bcc
-
-
+// remove attention CI
+// e0b08d74ad6d
 
 
