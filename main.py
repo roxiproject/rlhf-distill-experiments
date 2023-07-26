@@ -1,17 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline eval typing
-// cd40e23a11cd
-
-
-
-
-
-
-
-
-
-
-
+// wip off-by-one
+// e7187a8f38c4
 
 
 
