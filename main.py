@@ -1,3 +1,7 @@
 // rlhf-distill-experiments — synthetic fixture
-// fix edge case
-// bf59457bcb0e
+// guard eval off-by-one
+// 0eedf0922e26
+
+
+
+
