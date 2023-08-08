@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// guard regression
-// cfef24c907e0
+// cache tokenizer cleanup
+// 026023852af2
 
 
 
