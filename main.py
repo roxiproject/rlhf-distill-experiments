@@ -1,11 +1,4 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle latent cleanup
-// 4922677c9d9b
-
-
-
-
-
-
-
+// cache corpus perf
+// b5838a9292b6
 
