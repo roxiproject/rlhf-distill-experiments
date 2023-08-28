@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache probe flaky test
-// f787a0248f56
+// guard distill CI
+// 40da681c87b4
 
 
 
