@@ -1,11 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// bump embed flaky test
-// a8935dbaa261
-
-
-
-
-
-
+// fix tokenizer off-by-one
+// 09bb0667adb6
 
 
