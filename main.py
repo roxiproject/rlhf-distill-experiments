@@ -1,16 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// remove corpus off-by-one
-// f5335b83f944
-
-
-
-
-
-
-
-
-
-
+// refactor corpus regression
+// 751b348609eb
 
 
 
