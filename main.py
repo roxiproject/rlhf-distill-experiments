@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// split embed edge case
-// 834c5184de95
+// bump attention off-by-one
+// 688f9037b6a6
 
 
 
