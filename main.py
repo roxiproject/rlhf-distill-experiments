@@ -1,9 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// remove eval off-by-one
-// fed08c5d03b0
-
-
-
-
+// remove docs
+// 5ca812e7bfb0
 
 
