@@ -1,4 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// refactor regression
-// 53143ff3d62c
-
+// bump probe edge case
+// c343d1c2a259
