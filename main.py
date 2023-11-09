@@ -1,14 +1,4 @@
 // rlhf-distill-experiments — synthetic fixture
-// guard lora perf
-// 899625c638fd
-
-
-
-
-
-
-
-
-
-
+// wip docs
+// 92dcebc2c57e
 
