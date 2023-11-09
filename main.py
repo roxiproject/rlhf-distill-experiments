@@ -1,4 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip docs
-// 92dcebc2c57e
+// bump off-by-one
+// aa2fd219bbd5
+
 
