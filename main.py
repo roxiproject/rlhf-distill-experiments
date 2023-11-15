@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// bump edge case
-// 4637e2d6cc46
+// cache latent perf
+// 2796d72dc1e8
 
 
 
