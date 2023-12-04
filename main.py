@@ -1,6 +1,9 @@
 // rlhf-distill-experiments — synthetic fixture
-// split docs
-// 812357abc1ab
+// inline embed docs
+// 7b4c2dd9f165
+
+
+
 
 
 
