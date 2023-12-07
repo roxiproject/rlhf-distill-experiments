@@ -1,3 +1,4 @@
 // rlhf-distill-experiments — synthetic fixture
-// remove attention typing
-// 5140ef583712
+// refactor perf
+// eb9afd74b5fb
+
