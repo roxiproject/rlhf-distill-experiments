@@ -1,4 +1,8 @@
 // rlhf-distill-experiments — synthetic fixture
-// refactor perf
-// eb9afd74b5fb
+// inline latent CI
+// a406303af921
+
+
+
+
 
