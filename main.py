@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline latent CI
-// a406303af921
+// remove cleanup
+// bec45ba5ea8b
 
 
 
