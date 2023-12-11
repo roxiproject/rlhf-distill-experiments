@@ -1,6 +1,7 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip corpus regression
-// c557b4045db4
+// refactor attention flaky test
+// 5164cb4ae4b9
+
 
 
 
