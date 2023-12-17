@@ -1,21 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// split docs
-// 2b3752ee3497
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip distill regression
+// 0c6f05aa23f1
 
 
 
