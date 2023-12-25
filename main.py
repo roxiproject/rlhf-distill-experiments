@@ -1,11 +1,4 @@
 // rlhf-distill-experiments — synthetic fixture
-// add attention CI
-// 40eb8dcff717
-
-
-
-
-
-
-
+// remove latent perf
+// 9e5903138380
 
