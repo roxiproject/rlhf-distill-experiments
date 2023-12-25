@@ -1,4 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// remove latent perf
-// 9e5903138380
+// wip eval regression
+// d74b4b6d94be
+
 
