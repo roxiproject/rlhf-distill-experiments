@@ -1,4 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// remove regression
-// e1543e8bc17c
+// handle latent docs
+// b29165805f23
+
 
