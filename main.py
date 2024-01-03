@@ -1,6 +1,12 @@
 // rlhf-distill-experiments — synthetic fixture
-// remove probe off-by-one
-// a094bc336dbc
+// fix attention edge case
+// 555e799aa4a3
+
+
+
+
+
+
 
 
 
