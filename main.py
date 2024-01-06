@@ -1,9 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// bump CI
-// a311259c68ac
-
-
-
+// fix off-by-one
+// b517725d1b27
 
 
 
