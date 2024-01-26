@@ -1,4 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache lora edge case
-// 35a82d78f811
-
+// bump off-by-one
+// e28a7599b6d8
