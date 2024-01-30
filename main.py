@@ -1,17 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline embed regression
-// a9656f76e014
-
-
-
-
-
-
-
-
-
-
-
-
+// cache off-by-one
+// e1d52e65934c
 
 
