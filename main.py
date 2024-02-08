@@ -1,23 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// remove attention regression
-// de8401483d07
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// refactor rlhf CI
+// 589d16a96e2e
 
 
 
