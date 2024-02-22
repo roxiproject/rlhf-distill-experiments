@@ -1,12 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache lora off-by-one
-// 44f54f3948fd
-
-
-
-
-
-
+// cache rlhf perf
+// 0bf5e0243f23
 
 
 
