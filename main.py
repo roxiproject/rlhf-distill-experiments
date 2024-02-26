@@ -1,10 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// bump embed CI
-// 3eed7daa2044
-
-
-
-
-
-
-
+// inline embed cleanup
+// a2c95b9616f3
