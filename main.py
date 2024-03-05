@@ -1,7 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline eval perf
-// 286a36107b66
-
+// wip docs
+// 6e92b57e6017
 
 
 
