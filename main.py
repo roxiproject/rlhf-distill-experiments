@@ -1,7 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// fix docs
-// e8792233b4d7
-
-
-
-
+// refactor latent typing
+// f4d26d102deb
