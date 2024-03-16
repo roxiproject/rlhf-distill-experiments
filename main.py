@@ -1,9 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle attention off-by-one
-// 3b0ed8046b1f
-
-
-
+// add regression
+// 8f1e27850862
 
 
 
