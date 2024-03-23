@@ -1,8 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline perf
-// daefcabb9d5e
-
-
-
-
-
+// remove latent typing
+// dea4007f4df9
