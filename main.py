@@ -1,8 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// guard regression
-// 394f8fdade46
-
-
+// cache off-by-one
+// 2d36823832bd
 
 
 
