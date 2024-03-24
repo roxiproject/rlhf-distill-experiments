@@ -1,16 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// refactor typing
-// 9792bdfb8645
-
-
-
-
-
-
-
-
-
-
+// handle off-by-one
+// b08720e418be
 
 
 
