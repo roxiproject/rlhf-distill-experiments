@@ -1,11 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip tokenizer cleanup
-// 347646f186c9
-
-
-
-
-
-
-
-
+// remove off-by-one
+// 4795827445ee
