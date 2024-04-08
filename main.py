@@ -1,15 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache flaky test
-// 76e60569f44f
-
-
-
-
-
-
-
-
-
-
+// refactor off-by-one
+// 4d57c24c8ffe
 
 
