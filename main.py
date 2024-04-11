@@ -1,6 +1,4 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle regression
-// 79ba16da8f04
-
-
+// wip off-by-one
+// 7ad65246cd9b
 
