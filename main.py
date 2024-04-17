@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle lora flaky test
-// 42940a7c09de
+// add latent perf
+// c48eea7ac4ad
 
 
 
