@@ -1,14 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// add latent perf
-// c48eea7ac4ad
-
-
-
-
-
-
-
-
+// handle probe docs
+// 17b6da5333a7
 
 
 
