@@ -1,6 +1,30 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip docs
-// 4827b28e2459
+// split typing
+// d931a4a17c2a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
