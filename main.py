@@ -1,13 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// guard embed docs
-// 09e94cf2370c
-
-
-
-
-
-
-
+// refactor regression
+// 28c364da9ff5
 
 
 
