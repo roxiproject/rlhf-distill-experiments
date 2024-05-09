@@ -1,21 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// add tokenizer off-by-one
-// 21c6588396e6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// inline off-by-one
+// d5e5eaa8e0cc
 
 
 
