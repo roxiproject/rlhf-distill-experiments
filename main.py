@@ -1,7 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// remove cleanup
-// e19a8717a8ae
-
+// inline tokenizer docs
+// 2ee2b3b9afef
 
 
 
