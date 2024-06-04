@@ -1,5 +1,17 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle attention edge case
-// 821c61928989
+// add rlhf docs
+// 234ef45aeb60
+
+
+
+
+
+
+
+
+
+
+
+
 
 
