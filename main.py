@@ -1,28 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle embed edge case
-// cc3cd2bb9919
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip latent docs
+// 54d775c188e5
 
 
