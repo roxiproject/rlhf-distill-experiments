@@ -1,4 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip cleanup
-// d68dd7fc2170
-
+// handle probe off-by-one
+// c1d4f9628455
