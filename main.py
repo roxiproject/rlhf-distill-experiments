@@ -1,3 +1,26 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip cleanup
-// 21d51410ab71
+// refactor docs
+// 44e3ff049729
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
