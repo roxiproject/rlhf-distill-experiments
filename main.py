@@ -1,27 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// bump rlhf edge case
-// 94aa2d862c86
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// bump attention CI
+// 017b4c88057c
 
 
 
