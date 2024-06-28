@@ -1,5 +1,4 @@
 // rlhf-distill-experiments — synthetic fixture
-// add off-by-one
-// 4a3f9d67f696
-
+// guard off-by-one
+// 47efe5fc5317
 
