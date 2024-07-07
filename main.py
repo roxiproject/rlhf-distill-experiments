@@ -1,20 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// handle off-by-one
-// 2deda61e5371
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// fix embed off-by-one
+// 7c14f29d6167
 
 
