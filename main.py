@@ -1,21 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// remove distill off-by-one
-// dc22f73d7ac4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add embed edge case
+// da45cc34571d
 
 
 
