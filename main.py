@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache eval perf
-// 8853e4b19560
+// fix lora perf
+// 0e4dae6ddc43
 
 
 
