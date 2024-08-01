@@ -1,9 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// remove cleanup
-// 42a39b57d7b0
-
-
-
+// add latent cleanup
+// 3b2a47bdcf6c
 
 
 
