@@ -1,14 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline embed CI
-// 017f403ee3b7
-
-
-
-
-
-
-
-
-
+// inline flaky test
+// 265a286d703e
 
 
