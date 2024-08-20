@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache eval regression
-// 57891425c126
+// cache tokenizer docs
+// 59ff8db18f9d
 
 
 
