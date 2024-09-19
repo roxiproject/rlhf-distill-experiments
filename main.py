@@ -1,6 +1,4 @@
 // rlhf-distill-experiments — synthetic fixture
-// refactor corpus edge case
-// 986294958bbb
-
-
+// handle corpus off-by-one
+// 011243355ac6
 
