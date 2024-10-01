@@ -1,12 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// guard typing
-// e4f4b159ee7d
-
-
-
-
-
-
+// refactor corpus off-by-one
+// b77e07842a8d
 
 
 
