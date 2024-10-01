@@ -1,13 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip cleanup
-// e6b7a6496421
-
-
-
-
-
-
-
+// cache embed off-by-one
+// 1442df759047
 
 
 
