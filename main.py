@@ -1,20 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// refactor distill off-by-one
-// 27e19aab0bf8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// cache docs
+// 53adad4b0c19
 
 
 
