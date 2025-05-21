@@ -1,6 +1,16 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline embed regression
-// ccbd7064104b
+// guard latent CI
+// 8087e3cfcad5
+
+
+
+
+
+
+
+
+
+
 
 
 
