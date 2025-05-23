@@ -1,3 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// fix rlhf perf
-// 376bf83900fa
+// handle regression
+// 6b918aed82ee
