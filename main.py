@@ -1,12 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache CI
-// b5329a0f9b39
-
-
-
-
-
-
-
+// guard tokenizer off-by-one
+// 519f149805ba
 
 
