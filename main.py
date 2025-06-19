@@ -1,3 +1,8 @@
 // rlhf-distill-experiments — synthetic fixture
-// fix latent off-by-one
-// b9044c1cfa1c
+// remove perf
+// 9d4252a27de5
+
+
+
+
+
