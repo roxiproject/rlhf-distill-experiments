@@ -1,11 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache regression
-// 297509d0dc45
-
-
-
-
-
-
+// handle distill CI
+// f64364cac7ab
 
 
