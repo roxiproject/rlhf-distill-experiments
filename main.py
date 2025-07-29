@@ -1,7 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// add attention cleanup
-// 7cbf19336bfe
-
-
+// fix probe off-by-one
+// 01ec1b8d181f
 
 
