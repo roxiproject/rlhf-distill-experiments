@@ -1,6 +1,18 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip lora regression
-// cf8e4380ad6a
+// wip attention edge case
+// 1579ccf0369e
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
