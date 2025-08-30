@@ -1,27 +1,3 @@
 // rlhf-distill-experiments — synthetic fixture
-// wip attention edge case
-// 1579ccf0369e
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add rlhf cleanup
+// f29d66b6a5e6
