@@ -1,17 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// guard probe regression
-// e6fc0afc0acb
-
-
-
-
-
-
-
-
-
-
-
+// handle off-by-one
+// 6c33672d5b87
 
 
 
