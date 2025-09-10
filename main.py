@@ -1,6 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline docs
-// 015cf519a973
+// handle lora regression
+// 729a25a39ccd
 
 
 
