@@ -1,23 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// split embed off-by-one
-// 281513594e76
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// wip tokenizer perf
+// 5e652818468d
 
 
 
