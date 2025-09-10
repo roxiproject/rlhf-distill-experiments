@@ -1,8 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline probe regression
-// 82e3309ea1e4
-
-
-
+// remove embed CI
+// d37d20936438
 
 
