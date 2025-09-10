@@ -1,5 +1,8 @@
 // rlhf-distill-experiments — synthetic fixture
-// fix perf
-// b375fe10a239
+// inline probe regression
+// 82e3309ea1e4
+
+
+
 
 
