@@ -1,5 +1,17 @@
 // rlhf-distill-experiments — synthetic fixture
-// remove embed CI
-// d37d20936438
+// add attention CI
+// b9efd84f82f7
+
+
+
+
+
+
+
+
+
+
+
+
 
 
