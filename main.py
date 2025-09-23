@@ -1,21 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// refactor perf
-// 3dbf151fdeb6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// guard typing
+// 76d3c123c561
 
 
