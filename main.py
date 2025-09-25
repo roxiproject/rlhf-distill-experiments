@@ -1,22 +1,5 @@
 // rlhf-distill-experiments — synthetic fixture
-// fix typing
-// 96f671991054
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// add attention edge case
+// d1a9357b8879
 
 
