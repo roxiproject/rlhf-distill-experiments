@@ -1,11 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// fix CI
-// 174c8eb067e5
-
-
-
-
-
+// guard perf
+// 447f5936c998
 
 
 
