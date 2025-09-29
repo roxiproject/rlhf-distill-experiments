@@ -1,16 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline off-by-one
-// 810539b6ff06
-
-
-
-
-
-
-
-
-
-
+// add typing
+// 4ae2279d70d2
 
 
 
