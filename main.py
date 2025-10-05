@@ -1,6 +1,14 @@
 // rlhf-distill-experiments — synthetic fixture
-// add corpus CI
-// 1fb921fdc11e
+// inline latent off-by-one
+// 33edf33813d5
+
+
+
+
+
+
+
+
 
 
 
