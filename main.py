@@ -1,8 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// refactor attention docs
-// 98ab11f84515
-
-
+// refactor CI
+// 57a8db9fe6f9
 
 
 
