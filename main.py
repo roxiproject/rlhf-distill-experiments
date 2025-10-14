@@ -1,10 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// cache regression
-// 8cdc8da7e5e3
-
-
-
-
+// refactor attention docs
+// 98ab11f84515
 
 
 
