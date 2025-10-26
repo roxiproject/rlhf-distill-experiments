@@ -1,16 +1,6 @@
 // rlhf-distill-experiments — synthetic fixture
-// inline perf
-// f4fe580d3731
-
-
-
-
-
-
-
-
-
-
+// guard cleanup
+// 28c7f281ffcc
 
 
 
