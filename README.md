@@ -124,3 +124,15 @@ finite-difference gradient checks for both the MLP backward pass and the
 distillation loss, Adam optimizer behavior, toy data generation, training
 loop correctness, checkpoint save/load round-trips, CLI argument parsing,
 ablation logic, and edge cases. All 119 tests pass.
+
+## Related projects
+
+`rlhf-distill-experiments` is the distillation stage in a two-stage RLHF
+pipeline in the [roxiproject](https://github.com/roxiproject/roxiproject)
+account: it consumes a preference-tuned policy trained by
+[rlhf-experiments](https://github.com/roxiproject/rlhf-experiments)
+(Bradley-Terry reward model + PPO-lite) and distills it into this repo's
+smaller student model.
+
+- [rlhf-experiments](https://github.com/roxiproject/rlhf-experiments) — trains the preference-tuned policy that this repo distills.
+- [roxiproject](https://github.com/roxiproject/roxiproject) — account index of all projects (attention, attention-probe-kit, probe-experiments, embed-bench, lora-kit, corpus-kit, corpus-bench, corpus-tokenizer-kit, corpus-corpus.py, and more).
